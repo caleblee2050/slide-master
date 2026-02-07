@@ -2,6 +2,7 @@
   "name": "slide-master",
   "version": "1.0.0",
   "description": "Premium Slide Directives for NotebookLM",
+  "packageManager": "yarn@1.22.22",
   "type": "module",
   "scripts": {
     "dev": "vite",
